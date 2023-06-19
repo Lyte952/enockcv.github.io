@@ -104,4 +104,8 @@ nav {
     #footer, #card1 {
         flex-direction: column;
     }
+
+    #name {
+        font-size: 45;
+    }
 }
